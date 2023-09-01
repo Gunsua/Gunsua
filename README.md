@@ -13,7 +13,7 @@ I love experimenting with new technologies and building new projects.
 
   - Reading Novels, Action and Adventure, Autobiography & Biography, Comics, Detective and Mystery, Fantasy, Historical Fiction, Romance, Sci-Fi, History books(I sometimes watch Japan Anime 🇯🇵 ).
   
-  - I'm 15 years old
+  - I'm 18 years old
   
   ### Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunsua)
