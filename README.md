@@ -3,7 +3,10 @@
 I love experimenting with new technologies and building new projects.
 
 - 💻 Working as a **UX/UI** at [OpenMirai].
-Visit: openmirai.com
+- Visit: [openmirai.com](openmirai.com)
+
+Example of my work
+- Figma: [My work](https://www.figma.com/design/AHCJNHGxyuBQZNo85r7LFr/Pinsita_DesignProject?node-id=1-3&t=XLpzm8d1Sx7FapvO-1)
 
  
  ### interesting facts about me!
