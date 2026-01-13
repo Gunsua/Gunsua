@@ -2,7 +2,7 @@
 ### Hey, It's Kunsue here
 I love experimenting with new technologies and building new projects.
 
-- 💻 Working as a **UX/UI** at [OpenMirai].
+- 💻 Working as a **SVP of Creative & Design, Business Development** at [OpenMirai].
 - Visit: [openmirai.com](openmirai.com)
 
 Example of my work
