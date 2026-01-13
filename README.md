@@ -12,11 +12,9 @@ Visit: openmirai.com
   
   - I'm 21 years old
   
-  ### Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunsua)
-![My github stats](https://github-readme-stats.vercel.app/api?username=gunsua&show_icons=true)
 ### Social Media
 
+- **[Linkedin](https://www.linkedin.com/in/pinsita-niam-in-a09427190/)**
 - **[My Facebook](https://www.facebook.com/pinsita.niamin)**
 - **kunsue17@gmail.com**
 
